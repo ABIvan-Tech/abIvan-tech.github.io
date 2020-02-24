@@ -1,12 +1,12 @@
-title: Aleksei Ivantsov # your name (or website title) here
-logo: "/images/index.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  Creative and driven Android Developer 
+title: Aleksei Ivantsov
+logo: "/images/index.png?raw=true"
+description: >
+  Creative and driven Android Developer цшер collateral knowledge: Python, SQL, C/C++ and etc.
   <br><br>
   My life motto is "ipsa scientia potestas est".
   <br><br>
   <a href="https://www.linkedin.com/in/aleksei-ivantsov-237b601/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
-google_analytics: UA-158894575-1 # your Google Analytics tracking ID here
+google_analytics: UA-158894575-1
 permalink: /404.md
