@@ -2,7 +2,7 @@
 
 ---
 
-### Android developer, UI/UX Designer, QA, Team Leader 
+### Android developer, QA, Team Leader 
 ## [BAMBILLA - Ride Sharing App, Long term project](https://play.google.com/store/apps/details?id=club.bambilla.release)
 #### Qualifications and skills:
 - Programming in Java
@@ -29,6 +29,7 @@ In this project, my main responsibilities are: checking the code and refactoring
 
 ---
 
+### Android developer
 ## [Crocodile (Charades) - words and phrases small casual family game](https://play.google.com/store/apps/details?id=crocodile.s0l.com.crocodile)
 #### Qualifications and skills:
 - Programming in Java
