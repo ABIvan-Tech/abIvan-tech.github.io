@@ -4,7 +4,7 @@
 
 ### Android developer, UI/UX Designer, QA, Team Leader 
 
-[**Crocodile (Charades)** - words and phrases small casual family game](https://play.google.com/store/apps/details?id=crocodile.s0l.com.crocodile)
+[Crocodile (Charades) - words and phrases small casual family game](https://play.google.com/store/apps/details?id=crocodile.s0l.com.crocodile)
 #### Qualifications and skills:
 - Programming in Java
 - Back-end API integration using RxJava 2 + Retrofit 2 + OkHttp 3
