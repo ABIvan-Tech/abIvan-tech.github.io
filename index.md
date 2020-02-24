@@ -3,7 +3,7 @@
 ---
 
 ### Android developer, UI/UX Designer, QA, Team Leader 
-[BAMBILLA - Ride Sharing App, Long term project](https://play.google.com/store/apps/details?id=club.bambilla.release)
+## [BAMBILLA - Ride Sharing App, Long term project](https://play.google.com/store/apps/details?id=club.bambilla.release)
 #### Qualifications and skills:
 - Programming in Java
 - MVP pattern
@@ -27,7 +27,7 @@ In this project, my main responsibilities are: checking the code and refactoring
 
 <img src="images/3bamb_profile_result.png?raw=true"/> <img src="images/4bamb_ride_stat_result.png?raw=true"/>
 ---
-[Crocodile (Charades) - words and phrases small casual family game](https://play.google.com/store/apps/details?id=crocodile.s0l.com.crocodile)
+## [Crocodile (Charades) - words and phrases small casual family game](https://play.google.com/store/apps/details?id=crocodile.s0l.com.crocodile)
 #### Qualifications and skills:
 - Programming in Java
 - Back-end API integration using RxJava 2 + Retrofit 2 + OkHttp 3
