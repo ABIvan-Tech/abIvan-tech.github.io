@@ -46,8 +46,6 @@ This application is an online client of the word and phrase generator for the pa
 A small database of words and phrases is built into the application, in case of temporary loss of the Internet.
 Auto translation supported.
 
-<img src="images/1croco_splash_result.png?raw=true"/> <img src="images/2croco_welcome_result.png?raw=true"/>
-
 <img src="images/3croco_menu_result.png?raw=true"/> <img src="images/4croco_main_result.png?raw=true"/>
 
 <img src="images/5croco_time_play_result.png?raw=true"/> <img src="images/6croco_time_end_result.png?raw=true"/>
