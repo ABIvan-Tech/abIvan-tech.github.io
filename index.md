@@ -26,7 +26,9 @@ In this project, my main responsibilities are: checking the code and refactoring
 <img src="images/1bamb_login_result.png?raw=true"/> <img src="images/2bamb_map_result.png?raw=true"/>
 
 <img src="images/3bamb_profile_result.png?raw=true"/> <img src="images/4bamb_ride_stat_result.png?raw=true"/>
+
 ---
+
 ## [Crocodile (Charades) - words and phrases small casual family game](https://play.google.com/store/apps/details?id=crocodile.s0l.com.crocodile)
 #### Qualifications and skills:
 - Programming in Java
@@ -50,7 +52,9 @@ Auto translation supported.
 <img src="images/5croco_time_play_result.png?raw=true"/> <img src="images/6croco_time_end_result.png?raw=true"/>
 
 <img src="images/7croco_stat_result.png?raw=true"/> <img src="images/8croco_about_result.png?raw=true"/>
+
 ---
+
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
