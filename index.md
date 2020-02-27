@@ -156,3 +156,17 @@ Programing languages:
 * Web: HTML, CSS, JSON, XML  
 * Others: Git, Trello, Slack, Android Studio  
 * MS Office: Word, Excel, Power Point, Visio, Project and etc.
+
+---
+
+### [EDUCATION](http://www.sfu-kras.ru/en)
+- Siberian Federal University, Krasnoyarsk
+- Bachelor's degree / Electrical Engineering and Telecommunications   
+- September 1997 – May 2004
+
+---
+
+### [LANGUAGES]
+* Russian - Native
+* English - Intermediate (B1)
+* French - Beginner (A1)  
