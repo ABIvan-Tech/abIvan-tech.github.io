@@ -87,6 +87,8 @@ For social networks, where it is available, the next functionality was  impleme
 
 Daydream displays (almost in real time) the publication of tweets around the  world. Only tweets that contain information with a geographic location are  shown
 
+<img src="images/1tp_result.png?raw=true"/> <img src="images/2tp_result.png?raw=true"/>
+
 ---
 
 ### Android developer
@@ -100,6 +102,8 @@ Based on "Equations for organic motion" by Justin Windle. Original can be viewed
 * Show unread Gmail Notification
 * Show unread SMS Notification
 * Show missed call Notification  
+
+<img src="images/1eq_1_result.png?raw=true"/>
 
 ---
 
