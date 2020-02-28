@@ -68,6 +68,7 @@ Application that aggregated the following social networks:
 * Twitter,
 * LiveJournal, 
 * Vkontakte (Ru)  
+
 For social networks, where it is available, the next functionality was  implemented:
 * OAuth for authorization
 * Display a single one news feed (Likes/dislikes, Comments, etc.)
