@@ -117,7 +117,7 @@ The software and mathematics "VOSTOK-2003" is developed on the basis of  algori
 
 <img src="images/1east_main.PNG?raw=true"/> <img src="images/2east_2.PNG?raw=true"/>
 
-<img src="images/4east_4.PNG?raw=true"/> <img src="images/5eaast_5.PNG?raw=true"/>
+<img src="images/4eaast_4.PNG?raw=true"/> <img src="images/5east_5.PNG?raw=true"/>
 
 ---
 
