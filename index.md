@@ -62,7 +62,7 @@ Auto translation supported.
 - Parsing the JSON response
 - Handling error cases with ACRA
 
-Application that aggregated the following social networks:  
+Application that aggregated the following social networks: 
 * Facebook, 
 * Instagram, 
 * Twitter,
@@ -123,7 +123,7 @@ The program in real time captures and displays on the map:
 ## [Pulse of Tweets DayDream](https://play.google.com/store/apps/details?id=com.s0l.tweetpulse)
 #### Qualifications and skills:
 - Programming in Java
-- REST API integration using AsyncTask
+- AsyncTask
 - DayDream
 
 Daydream displays (almost in real time) the publication of tweets around the  world. Only tweets that contain information with a geographic location are  shown
@@ -136,7 +136,7 @@ Daydream displays (almost in real time) the publication of tweets around the  w
 ## [Equations DayDream](​ not available in the market due to changes in google app permissions policy)
 #### Qualifications and skills:
 - Programming in Java
-- REST API integration using AsyncTask
+- AsyncTask
 - DayDream
 
 Based on "Equations for organic motion" by Justin Windle. Original can be viewed  at http://soulwire.co.uk  These features have been implemented:  
@@ -196,6 +196,7 @@ Second program is designed to control an external device - an DAC-ADC converter�
 ## [Project TAXI]
 #### Qualifications and skills:
 - MS Visual Studio C/C++
+- GDI+
 - Client / Server architecture
 - MFC
 
@@ -218,7 +219,7 @@ A Telecommunications Engineer with extensive knowledge in telecommunications and
 * Geospatial Data Analytics via [Kepler GL](https://github.com/keplergl/kepler.gl)
 * Databases: MS SQL, Oracle (basic skills), SQLite
 * Web: HTML, CSS, JSON, XML  
-* DevOps: [Apache NiFi](https://nifi.apache.org/)
+* DevOps: [Apache NiFi](https://nifi.apache.org/), Debian
 * Others: Git, Trello, Slack, Android Studio  
 * MS Office: Word, Excel, Power Point, Visio, Project and etc.
 
@@ -226,8 +227,15 @@ A Telecommunications Engineer with extensive knowledge in telecommunications and
 
 ### [EDUCATION](http://www.sfu-kras.ru/en)
 - Siberian Federal University, Krasnoyarsk
-- Bachelor's degree / Electrical Engineering and Telecommunications   
-- September 1997 – May 2004
+    - Bachelor's degree / Electrical Engineering and Telecommunications   
+    - September 1997 – May 2004
+- Udacity / Advanced Android App Development
+- DataCamp / [Data Analysis with Spreadsheets](https://www.datacamp.com/statement-of-accomplishment/course/e2d948ee9f4a4a1b4d8f3550def122bf37a2605a)
+- DataCamp / [Introduction to Python](https://www.datacamp.com/statement-of-accomplishment/course/80f496d2d9a0ea1b1bc90424c2696967791c973d)
+- Microsoft / [DAT208x: Introduction to Python for Data Science](https://courses.edx.org/certificates/6600d975bce34bc6bcdb73ced331deb8)
+- Microsoft / [DAT263x: Introduction to Artificial Intelligence (AI)](https://courses.edx.org/certificates/c95b5d374f3a49dd97a3be46eadd7f1c)
+- DOOR Training & Consulting Nordic / Professional Business Trainer
+- Sales Training International / Train to Trainer
 
 ---
 
