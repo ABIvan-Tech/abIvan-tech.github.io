@@ -77,6 +77,7 @@ For social networks, where it is available, the next functionality was  impleme
 * etc. 
 
 ---
+
 ### Android developer
 ## NetMon - Radio Network Monitor (not available in the market due to changes in google app permissions policy) 
 #### Qualifications and skills:
@@ -190,6 +191,7 @@ Second program is designed to control an external device - an DAC-ADC converter�
 <img src="images/1arm1_result.png?raw=true"/>
 <img src="images/2arm2_result.png?raw=true"/>
 <img src="images/3arm3_result.png?raw=true"/>
+
 ---
 
 ### Software developer (Windows MS Visual Studio C/C++)
@@ -207,11 +209,14 @@ This complex was successfully implemented in 2 taxi companies in Krasnoyarsk in 
 <img src="images/1taximain_result.png?raw=true"/> <img src="images/2taxiclientmain_result.png?raw=true"/>
 
 <img src="images/3grafika_result.png?raw=true"/> <img src="images/7putevka_result.png?raw=true"/>
+
 ---
 
 ### Telecommunications Engineer
 ## VEON, NOKIA
 A Telecommunications Engineer with extensive knowledge in telecommunications and 15+ years of experience of GSM/WCDMA/LTE-A/5G/VoLTE/IoT consultancy, project management, strategic planning, network design & evolution, optimisation and performance analysis.
+
+---
 
 ### TECHNICAL PROFICIENCIES:   
 * Java, Kotlin, VB (for Excel), C/C++, Python
