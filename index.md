@@ -55,7 +55,7 @@ Auto translation supported.
 ---
 
 ### Android developer
-## [Social - Popular social media aggregator](App for personal use, never laid out in the google market)
+## Social - Popular social media aggregator (App for personal use, never laid out in the google market)
 #### Qualifications and skills:
 - Programming in Java
 - REST API integration using AsyncTask
@@ -75,6 +75,47 @@ For social networks, where it is available, the next functionality was  impleme
 * Use a single one contact list
 * Events, Messages
 * etc. 
+
+---
+### Android developer
+## NetMon - Radio Network Monitor (not available in the market due to changes in google app permissions policy) 
+#### Qualifications and skills:
+- Programming in Java
+- API usage 
+    - Telephony
+    - GPS
+    - Bluetooth
+    - WiFi
+- Handling error cases with ACRA
+- SQLite
+- Maps SDK:
+  - Google Maps
+  - Yandex Maps
+  - OpenStreetMaps
+ - Androidplot
+ - GraphView
+
+NetMon is a program to display information about the current Cellular / Wifi / Bluetooth network to which your phone is registered.
+The current location is determined using GPS and the Network location services.
+You can use use one of Google Maps, Yandex Maps or OpenStreetMaps to find your location and see recorded events. 
+The program in real time captures and displays on the map:
+- Cellular level
+- Events of incoming and outgoing calls
+- Breakage of a call.
+- Change of serving cell
+- Volume of in/out data traffic
+- Captured data is written to the database (SQLite) and exported to the following formats: KML, CSV, Excel, HTML
+- The data recorded in the database can be edited from the program through the built-in editor
+- Navigation information is available in the form of:
+    - Satellite position in the sky
+    - Signal strength from each satellite
+    - Type of navigation system (GPS, GLONASS, etc.)
+
+<img src="images/1nm.png?raw=true"/> <img src="images/2nm.png?raw=true"/>
+
+<img src="images/3nm.png?raw=true"/> <img src="images/4nm.png?raw=true"/>
+
+<img src="images/5nm.png?raw=true"/>
 
 ---
 
@@ -118,7 +159,14 @@ Based on "Equations for organic motion" by Justin Windle. Original can be viewed
 http://seismos-u.ifz.ru/personal/electr-earth.htm
 http://igiis.ru/sejsmichnost/obshhee-sejsmicheskoe-rajonirovanie/ 
 
-The software and mathematics "VOSTOK-2003" is developed on the basis of  algorithms and software packages OSR-97 and provides a convenient user  interface for specifying, editing and parameterizing zones of occurrence of  earthquake sources, calculating the recurrence periods of the seismic effect  and assessing seismic hazard, for constructing maps of probabilistic seismic  zoning of specific territories, visualization of maps and other input,  intermediate and output data. 
+The software and mathematics (hereinafter referred to as PMO) "VOSTOK-2003" is developed on the basis of algorithms and software packages OSR-97 and provides a convenient user interface for specifying, editing and parameterizing zones of occurrence of earthquake sources, calculating the recurrence periods of the seismic effect and assessing seismic hazard, for constructing maps of probabilistic seismic zoning of specific territories, visualization of maps and other input, intermediate and output data.
+
+PMO "EAST-2003" is supported by the Windows operating system, strictly corresponds to the OSR-97 methodology and includes the following main actions:
+- selection of the research region, unification of the earthquake catalog, determination of the parameters of the seismic regime and the creation of other databases (DB) for the formation of the calculated linear-domain-focal model (LDF model) of the zones of occurrence of earthquake sources (WHO zones) and the parametrization of its main structural elements - lineaments, domains, potential foci of earthquakes;
+- identification and inclusion in the database of geographical coordinates of the ends and kinks of linear zones reflecting structured seismicity (lineaments and potential foci), and kinks of contours of areal zones of diffuse seismicity (domains) with their corresponding seismological parameterization, which is carried out generally for each lineament and its segment , domain and potential source, including standardization of the density of seismic events per unit length (one km) for lineaments and unit area (one sq. km) for domains;
+- visualization of maps of regional seismicity, mapping of extended and realistically oriented foci of earthquakes (in the OSR-97 legend - ellipses for magnitudes M≥6.8, etc.), the main structural elements of WHO zones (lineaments, domains, potential foci), active faults and others;
+- creation of a model catalog on the basis of the parameterized model of the WHO zones, interactive formation of the coordinate grid and calculation of the repeatability of seismic tremors at its nodes, created by the main structural elements of the WHO zones - lineaments, domains and potential centers of earthquakes;
+- visualization of the results of calculations of the frequency of occurrence of seismic tremors in nodes of the grid, virtual seismicity maps, maps of different periods of the frequency of occurrence of tremors of various seismic intensities, maps of seismic zoning for given periods of frequency of occurrence of seismic impacts, as well as the display of the main intermediate graphical constructions.
 
 <img src="images/1east_main.PNG?raw=true"/> <img src="images/2east_2.PNG?raw=true"/>
 
@@ -151,7 +199,9 @@ Second program is designed to control an external device - an DAC-ADC converter�
 - Client / Server architecture
 - MFC
 
-The complex of programs Taxi is designed for the integrated management and  accounting of orders in taxi companies. This complex was successfully implemented in 2 taxi companies in Krasnoyarsk in  2001-2003. The number of taxi cars is more than 500, the number of dispatchers  is more than 15. 
+The complex of programs Taxi is designed for the integrated management and accounting of orders in taxi companies. 
+Program allows you to register orders, keeps track of customer activity, and allows you to create a list of black phone numbers, compile various report forms, as well as output them to a printer, view various statistics, make new billing, make calculations with drivers, and view drivers working hours on the line.
+This complex was successfully implemented in 2 taxi companies in Krasnoyarsk in 2001-2003. The number of taxi cars is more than 500, the number of dispatchers is more than 15.
 
 <img src="images/1taximain_result.png?raw=true"/> <img src="images/2taxiclientmain_result.png?raw=true"/>
 
