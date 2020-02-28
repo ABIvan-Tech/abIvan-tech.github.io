@@ -185,8 +185,8 @@ PMO "EAST-2003" is supported by the Windows operating system, strictly correspon
 - Hardware debugging
 
 A set of programs for students to perform laboratory work in the discipline of  electrical engineering and electrical signals.  The main program synthesizes various types of signals, reads signals from an  external device in various modes, displays graphs of the synthesized signal, the  read signal after processing in the device. The program generates signals with  an amplitude characteristic, an amplitude-frequency characteristic, a  phase-frequency characteristic. 
- 
-Second program is designed to control an external device - an DAC-ADC converter  with electronic board layout (the real external device not emulation!)  The third program allows to perform laboratory work remotely. The student  launched the program for remote work, formed a task (a script language specially  developed for this was used), this task was sent to the server (via e-mail or a  local network using). The server processed the incoming tasks using the FIFO  method and sent the results to the student. Thus, it was possible to reduce  travel costs for part-time students, as well as reduce the burden on teachers,  because laboratory work could be completed in advance before arriving at the  session.
+Second program is designed to control an external device - an DAC-ADC converter  with electronic board layout (the real external device not emulation!)  
+The third program allows to perform laboratory work remotely. The student  launched the program for remote work, formed a task (a script language specially  developed for this was used), this task was sent to the server (via e-mail or a  local network using). The server processed the incoming tasks using the FIFO  method and sent the results to the student. Thus, it was possible to reduce  travel costs for part-time students, as well as reduce the burden on teachers,  because laboratory work could be completed in advance before arriving at the  session.
 
 <img src="images/1arm1_result.png?raw=true"/>
 <img src="images/2arm2_result.png?raw=true"/>
@@ -204,7 +204,7 @@ Second program is designed to control an external device - an DAC-ADC converter�
 
 The complex of programs Taxi is designed for the integrated management and accounting of orders in taxi companies. 
 Program allows you to register orders, keeps track of customer activity, and allows you to create a list of black phone numbers, compile various report forms, as well as output them to a printer, view various statistics, make new billing, make calculations with drivers, and view drivers working hours on the line.
-This complex was successfully implemented in 2 taxi companies in Krasnoyarsk in 2001-2003. The number of taxi cars is more than 500, the number of dispatchers is more than 15.
+This complex was successfully implemented in 2 taxi companies in Krasnoyarsk city in 2001-2003. The number of taxi cars is more than 500, the number of dispatchers is more than 15.
 
 <img src="images/1taximain_result.png?raw=true"/> <img src="images/2taxiclientmain_result.png?raw=true"/>
 
@@ -213,8 +213,8 @@ This complex was successfully implemented in 2 taxi companies in Krasnoyarsk in 
 ---
 
 ### Telecommunications Engineer
-## VEON, NOKIA
-A Telecommunications Engineer with extensive knowledge in telecommunications and 15+ years of experience of GSM/WCDMA/LTE-A/5G/VoLTE/IoT consultancy, project management, strategic planning, network design & evolution, optimisation and performance analysis.
+## NOKIA, VEON
+A Telecommunications Engineer with extensive knowledge in telecommunications and 16+ years of experience of GSM/WCDMA/LTE-A/5G/VoLTE/IoT consultancy, project management, strategic planning, network design & evolution, optimisation and performance analysis.
 
 ---
 
@@ -244,7 +244,7 @@ A Telecommunications Engineer with extensive knowledge in telecommunications and
 
 ---
 
-### [LANGUAGES]
+### [LANGUAGES](https://en.wikipedia.org/wiki/Language)
 * Russian - Native
 * English - Intermediate (B1)
 * French - Beginner (A1)  
