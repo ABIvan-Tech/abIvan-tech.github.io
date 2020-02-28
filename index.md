@@ -139,6 +139,9 @@ A set of programs for students to perform laboratory work in the discipline of 
  
 Second program is designed to control an external device - an DAC-ADC converter  with electronic board layout (the real external device not emulation!)  The third program allows to perform laboratory work remotely. The student  launched the program for remote work, formed a task (a script language specially  developed for this was used), this task was sent to the server (via e-mail or a  local network using). The server processed the incoming tasks using the FIFO  method and sent the results to the student. Thus, it was possible to reduce  travel costs for part-time students, as well as reduce the burden on teachers,  because laboratory work could be completed in advance before arriving at the  session.
 
+<img src="images/1arm1_result.png?raw=true"/>
+<img src="images/2arm2_result.png?raw=true"/>
+<img src="images/3arm3_result.png?raw=true"/>
 ---
 
 ### Software developer (Windows MS Visual Studio C/C++)
