@@ -112,6 +112,7 @@ Based on "Equations for organic motion" by Justin Windle. Original can be viewed
 #### Qualifications and skills:
 - MS Visual Studio C/C++
 - GDI+
+- MFC
 - Translation of algorithms (OSR) from Fortran (MS DOS) to C/C++ 
 
 http://seismos-u.ifz.ru/personal/electr-earth.htm
@@ -131,6 +132,7 @@ The software and mathematics "VOSTOK-2003" is developed on the basis of  algori
 - MS Visual Studio C/C++
 - Assembler
 - Translation of algorithms from Assembler (MS DOS) to C/C++
+- MFC
 - Hardware debugging
 
 A set of programs for students to perform laboratory work in the discipline of  electrical engineering and electrical signals.  The main program synthesizes various types of signals, reads signals from an  external device in various modes, displays graphs of the synthesized signal, the  read signal after processing in the device. The program generates signals with  an amplitude characteristic, an amplitude-frequency characteristic, a  phase-frequency characteristic. 
@@ -144,6 +146,7 @@ Second program is designed to control an external device - an DAC-ADC converter�
 #### Qualifications and skills:
 - MS Visual Studio C/C++
 - Client / Server architecture
+- MFC
 
 The complex of programs Taxi is designed for the integrated management and  accounting of orders in taxi companies. This complex was successfully implemented in 2 taxi companies in Krasnoyarsk in  2001-2003. The number of taxi cars is more than 500, the number of dispatchers  is more than 15. 
 
