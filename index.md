@@ -104,7 +104,7 @@ Based on "Equations for organic motion" by Justin Windle. Original can be viewed
 ---
 
 ### Software developer (Windows MS Visual Studio C/C++)
-## [EAST-2003]
+## [EAST-2003](/pdf/ulomov_o_programme-OCP-97.pdf)
 #### Qualifications and skills:
 - MS Visual Studio C/C++
 - GDI+
@@ -115,9 +115,9 @@ http://igiis.ru/sejsmichnost/obshhee-sejsmicheskoe-rajonirovanie/ 
 
 The software and mathematics "VOSTOK-2003" is developed on the basis of  algorithms and software packages OSR-97 and provides a convenient user  interface for specifying, editing and parameterizing zones of occurrence of  earthquake sources, calculating the recurrence periods of the seismic effect  and assessing seismic hazard, for constructing maps of probabilistic seismic  zoning of specific territories, visualization of maps and other input,  intermediate and output data. 
 
-<img src="images/1east_main.png?raw=true"/> <img src="images/2east_2.png?raw=true"/>
+<img src="images/1east_main.PNG?raw=true"/> <img src="images/2east_2.PNG?raw=true"/>
 
-<img src="images/4east_4.png?raw=true"/> <img src="images/5eaast_5.png?raw=true"/>
+<img src="images/4east_4.PNG?raw=true"/> <img src="images/5eaast_5.PNG?raw=true"/>
 
 ---
 
