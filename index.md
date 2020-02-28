@@ -153,15 +153,13 @@ The complex of programs Taxi is designed for the integrated management and  acc
 ## VEON, NOKIA
 A Telecommunications Engineer with extensive knowledge in telecommunications and 15+ years of experience of GSM/WCDMA/LTE-A/5G/VoLTE/IoT consultancy, project management, strategic planning, network design & evolution, optimisation and performance analysis.
 
-### TECHNICAL PROFICIENCIES:  
-Programing languages: 
-* Java (Android)
-* VB (for Excel)
-* C/C++
-* Python
-* [Kepler GL](https://github.com/keplergl/kepler.gl)
+### TECHNICAL PROFICIENCIES:   
+* Java, Kotlin, VB (for Excel), C/C++, Python
+* CLI
+* Geospatial Data Analytics via [Kepler GL](https://github.com/keplergl/kepler.gl)
 * Databases: MS SQL, Oracle (basic skills), SQLite
 * Web: HTML, CSS, JSON, XML  
+* DevOps: [Apache NiFi](https://nifi.apache.org/)
 * Others: Git, Trello, Slack, Android Studio  
 * MS Office: Word, Excel, Power Point, Visio, Project and etc.
 
