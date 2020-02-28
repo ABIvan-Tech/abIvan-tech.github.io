@@ -111,11 +111,11 @@ The program in real time captures and displays on the map:
     - Signal strength from each satellite
     - Type of navigation system (GPS, GLONASS, etc.)
 
-<img src="images/1nm.png?raw=true"/> <img src="images/2nm.png?raw=true"/>
+<img src="images/1nm.png?raw=true"/> <img src="images/3nm.png?raw=true"/>
 
-<img src="images/3nm.png?raw=true"/> <img src="images/4nm.png?raw=true"/>
+<img src="images/5nm.png?raw=true"/> <img src="images/2nm.png?raw=true"/>
 
-<img src="images/5nm.png?raw=true"/>
+<img src="images/4nm.png?raw=true"/>
 
 ---
 
