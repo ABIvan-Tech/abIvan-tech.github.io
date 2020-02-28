@@ -153,6 +153,9 @@ Second program is designed to control an external device - an DAC-ADC converter�
 
 The complex of programs Taxi is designed for the integrated management and  accounting of orders in taxi companies. This complex was successfully implemented in 2 taxi companies in Krasnoyarsk in  2001-2003. The number of taxi cars is more than 500, the number of dispatchers  is more than 15. 
 
+<img src="images/1taximain_result.png?raw=true"/> <img src="images/2taxiclientmain_result.png?raw=true"/>
+
+<img src="images/3grafika_result.png?raw=true"/> <img src="images/7putevka_result.png?raw=true"/>
 ---
 
 ### Telecommunications Engineer
