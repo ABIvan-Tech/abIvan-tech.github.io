@@ -154,10 +154,10 @@ Based on "Equations for organic motion" by Justin Windle. Original can be viewed
 - MS Visual Studio C/C++
 - GDI+
 - MFC
-- Translation of algorithms (OSR) from Fortran (MS DOS) to C/C++ 
+- Translation of algorithms (OSR) from Fortran (MS DOS) to C/C++
 
 http://seismos-u.ifz.ru/personal/electr-earth.htm
-http://igiis.ru/sejsmichnost/obshhee-sejsmicheskoe-rajonirovanie/ 
+http://igiis.ru/sejsmichnost/obshhee-sejsmicheskoe-rajonirovanie
 
 The software and mathematics (hereinafter referred to as PMO) "VOSTOK-2003" is developed on the basis of algorithms and software packages OSR-97 and provides a convenient user interface for specifying, editing and parameterizing zones of occurrence of earthquake sources, calculating the recurrence periods of the seismic effect and assessing seismic hazard, for constructing maps of probabilistic seismic zoning of specific territories, visualization of maps and other input, intermediate and output data.
 
@@ -193,7 +193,7 @@ Second program is designed to control an external device - an DAC-ADC converter�
 ---
 
 ### Software developer (Windows MS Visual Studio C/C++)
-## [Project TAXI]
+## Project TAXI
 #### Qualifications and skills:
 - MS Visual Studio C/C++
 - GDI+
