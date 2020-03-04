@@ -236,6 +236,7 @@ A Telecommunications Engineer with extensive knowledge in telecommunications and
     - Bachelor's degree / Electrical Engineering and Telecommunications   
     - September 1997 – May 2004
 - Udacity / Advanced Android App Development
+- Udacity / Firebase in a Weekend (Android)
 - DataCamp / [Data Analysis with Spreadsheets](https://www.datacamp.com/statement-of-accomplishment/course/e2d948ee9f4a4a1b4d8f3550def122bf37a2605a)
 - DataCamp / [Introduction to Python](https://www.datacamp.com/statement-of-accomplishment/course/80f496d2d9a0ea1b1bc90424c2696967791c973d)
 - Microsoft / [DAT208x: Introduction to Python for Data Science](https://courses.edx.org/certificates/6600d975bce34bc6bcdb73ced331deb8)
