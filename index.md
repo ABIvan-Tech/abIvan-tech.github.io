@@ -215,7 +215,7 @@ This complex was successfully implemented in 2 taxi companies in Krasnoyarsk cit
 
 ### Telecommunications Engineer
 ## NOKIA, VEON
-A Telecommunications Engineer with extensive knowledge in telecommunications and 16+ years of experience of GSM/WCDMA/LTE-A/5G/VoLTE/IoT consultancy, project management, strategic planning, network design & evolution, optimisation and performance analysis.
+A Telecommunications Engineer with extensive knowledge in telecommunications and 16+ years of experience of GSM/WCDMA/LTE-A/5G/VoLTE/IoT consultancy, project management, strategic planning, network design & evolution, optimisation and performance analysis. Workflow Automation (Java, Python). MS SQL Administration.
 
 ---
 
