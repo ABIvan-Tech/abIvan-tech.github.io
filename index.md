@@ -14,7 +14,7 @@
 - Parsing the JSON response
 - Social API (Facebook/Google/Twitter) integration
 - Glide for safe and fast images loading
-- Handling error cases with Crashlitics
+- Handling error cases with Crashlytics
 - Firebase for analytics
 - VCS via Bitbucket
 - Jetpack implementation 
@@ -36,7 +36,7 @@ My responsibilities are: checking the code and refactoring the old code using th
 - Back-end API integration using RxJava 2 + Retrofit 2 + OkHttp 3
 - Parsing the JSON response
 - Doing network operations independent of the Activity lifecycle
-- Handling error cases with Crashlitics
+- Handling error cases with Crashlytics
 - Firebase for analytics
 - VCS via Bitbucket 
 
