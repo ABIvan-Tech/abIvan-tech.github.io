@@ -2,6 +2,36 @@
 
 ---
 
+### Android developer, QA (Team members - two developers)
+## [ivfrussia](https://play.google.com/store/apps/details?id=com.ivfrussia)
+#### Qualifications and skills:
+- 100% Kotlin
+- MVVM pattern
+- Dependency injection with Hilt
+- Kotlin Coroutines - for asynchronous operation
+- Coil for safe and fast images loading
+- Firebase for:
+    - Analytic
+    - Authentication
+    - Cloud Firestore
+    - Realtime Database
+    - Storage
+    - Cloud Messaging
+- Room for database stuff
+- VCS via Gitlab
+- Jetpack Navigation implementation 
+
+The program is intended for online support of women in the process of preparing for pregnancy, including IVF
+
+This guide to the world of IVF will easily and easily tell you about each stage that you have to do, remind you of taking medications, or help you contact your doctor!
+
+My responsibilities are: E2E code development. UI development. Implementation of all features according to the contract
+
+<img src="images/ifi_1_result.png?raw=true"/> <img src="images/ifi_2_result.png?raw=true"/>
+
+<img src="images/ifi_3_result.png?raw=true"/> <img src="images/ifi_4_result.png?raw=true"/> <img src="images/ifi_5_result.png?raw=true"/>
+---
+
 ### Android developer, QA, Team Leader 
 ## [BAMBILLA - Ride Sharing App, Long term project](https://play.google.com/store/apps/details?id=club.bambilla.release)
 #### Qualifications and skills:
