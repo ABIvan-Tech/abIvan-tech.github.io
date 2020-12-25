@@ -27,7 +27,7 @@ This guide to the world of IVF will easily and easily tell you about each stage 
 
 My responsibilities are: E2E code development. UI development. Implementation of all features according to the contract
 
-<img src="images/ifi_1_result.png?raw=true"/> <img src="images/ifi_2_result.png?raw=true"/>
+<img src="images/ifi_0_result.png?raw=true"/> <img src="images/ifi_1_result.png?raw=true"/> <img src="images/ifi_2_result.png?raw=true"/>
 
 <img src="images/ifi_3_result.png?raw=true"/> <img src="images/ifi_4_result.png?raw=true"/> <img src="images/ifi_5_result.png?raw=true"/>
 ---
