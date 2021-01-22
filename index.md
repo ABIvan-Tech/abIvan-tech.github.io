@@ -10,6 +10,7 @@
 - Dependency injection with Hilt
 - Kotlin Coroutines - for asynchronous operation
 - Coil for safe and fast images loading
+- MotionLayout for smooth animation
 - Firebase for:
     - Analytic
     - Authentication
@@ -33,7 +34,7 @@ My responsibilities are: E2E code development. UI development. Implementation of
 ---
 
 ### Android developer, QA, Team Leader 
-## [BAMBILLA - Ride Sharing App, Long term project](https://play.google.com/store/apps/details?id=club.bambilla.release)
+## [BAMBILLA - Ride Sharing App](https://play.google.com/store/apps/details?id=club.bambilla.release)
 #### Qualifications and skills:
 - Programming in Java
 - MVP pattern
